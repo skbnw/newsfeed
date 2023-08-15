@@ -1,6 +1,7 @@
 #########################
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
+
 #########################
 
 cacheUrl: https://skbnw.github.io/newsfeed/cache.json
